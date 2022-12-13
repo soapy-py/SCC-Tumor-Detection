@@ -21,7 +21,7 @@ Here's the architecture
 
 I trained it for 10 epochs, batch size of 256, learning rate of 1e-3 for around 5.7 hours (not a long time, if I gave it some more time maybe the accuracy could improve). I used 80k patches for the training dataset and 10k for validation and testing. The AUC-ROC score and the accuracy could
 definitely be improved using a different architecture (maybe EfficientNet? wanted to try that out but I haven't yet (https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html?adlt=strict&toWww=1&redig=424CA2642B0243BF84C2C8DB79B3A6FE) or freezing/unfreezing layers like you suggested. For now I'm just trying to finish the workflow and get a
-decent accuracy and then going back to fine-tune everything and make adjustments, but if you could help me with that, it would be great :)
+decent accuracy and then going back to fine-tune everything and make adjustments, but if you could help me with that, it would be great
 
 After training the CNN model, I generated embeddings using the model for each of the WSIs and saved the data in separate pickle files. I've used these embeddings
 to generate a graph dataset to train a GCN to make connections between patches of WSIs to better localize and detect tumors in the WSIs.
@@ -39,5 +39,5 @@ v2 contains the pkl files with the annotations (i'm not sure what the annotation
 
 prelim_patch_info contains the stacked npy arrays which are the actual WSIs split into patches.
 
-Currently I'm working on constructing the GNN and training it, might need some help here too? I think Dr. Levy wants to finish the SCC ArcticAI studies soon
-, so I'm going to start working on it more after my midterm exams are over (12/20, I've been procrastinating a bit, sorry). If you need anything else or have questions feel free to message me on slack! 
+Currently I'm working on constructing the GNN and training it. I think Dr. Levy wants to finish the SCC ArcticAI studies soon
+, so I'm going to start working on it more after my midterm exams are over (12/20, I've been procrastinating a bit). If you need anything else or have questions feel free to message me on slack! 
