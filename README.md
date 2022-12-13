@@ -39,5 +39,5 @@ v2 contains the pkl files with the annotations (i'm not sure what the annotation
 
 prelim_patch_info contains the stacked npy arrays which are the actual WSIs split into patches.
 
-Currently I'm working on constructing the GNN and training it, might need some help here too? I think Dr. Levy wants to finish the SCC ArcticAI projects soon
-, so I'm going to pick up with the project after my midterm exams are over (12/20). If you need anything else or have questions feel free to message me on slack!
+Currently I'm working on constructing the GNN and training it, might need some help here too? I think Dr. Levy wants to finish the SCC ArcticAI studies soon
+, so I'm going to start working on it more after my midterm exams are over (12/20, I've been procrastinating a bit, sorry). If you need anything else or have questions feel free to message me on slack! 
