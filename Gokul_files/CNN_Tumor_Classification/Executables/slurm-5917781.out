@@ -1,0 +1,233 @@
+0it [00:00, ?it/s]2it [00:00, 11.75it/s]4it [00:00, 11.33it/s]6it [00:00, 10.52it/s]8it [00:00,  9.54it/s]10it [00:01,  9.31it/s]11it [00:01,  8.57it/s]12it [00:01,  7.82it/s]13it [00:01,  6.96it/s]14it [00:01,  6.28it/s]15it [00:01,  5.72it/s]16it [00:02,  5.21it/s]17it [00:02,  4.84it/s]18it [00:02,  4.55it/s]19it [00:02,  4.28it/s]20it [00:03,  4.06it/s]21it [00:03,  3.87it/s]22it [00:03,  3.64it/s]23it [00:04,  3.45it/s]24it [00:04,  3.23it/s]26it [00:04,  5.17it/s]27it [00:05,  4.14it/s]28it [00:05,  3.27it/s]29it [00:06,  2.79it/s]30it [00:06,  2.69it/s]31it [00:06,  2.60it/s]32it [00:07,  2.48it/s]34it [00:07,  3.96it/s]35it [00:07,  4.54it/s]36it [00:07,  4.80it/s]37it [00:08,  3.52it/s]38it [00:08,  2.97it/s]39it [00:09,  2.66it/s]40it [00:09,  2.44it/s]41it [00:10,  2.27it/s]42it [00:10,  2.15it/s]43it [00:11,  2.05it/s]44it [00:11,  2.68it/s]47it [00:11,  5.44it/s]49it [00:11,  6.89it/s]51it [00:12,  4.91it/s]52it [00:12,  5.41it/s]53it [00:12,  5.85it/s]54it [00:12,  6.17it/s]55it [00:12,  5.37it/s]56it [00:13,  5.47it/s]57it [00:13,  5.43it/s]58it [00:13,  3.45it/s]59it [00:14,  2.69it/s]60it [00:14,  2.31it/s]61it [00:15,  2.06it/s]62it [00:15,  2.62it/s]63it [00:15,  3.24it/s]64it [00:15,  3.74it/s]65it [00:16,  4.10it/s]66it [00:16,  4.38it/s]67it [00:16,  2.90it/s]68it [00:17,  2.29it/s]69it [00:18,  1.98it/s]70it [00:18,  1.79it/s]71it [00:19,  1.67it/s]72it [00:20,  1.57it/s]73it [00:21,  1.42it/s]74it [00:21,  1.39it/s]75it [00:22,  1.36it/s]76it [00:22,  1.74it/s]77it [00:23,  2.14it/s]78it [00:23,  2.53it/s]79it [00:24,  1.96it/s]80it [00:24,  1.67it/s]81it [00:25,  1.50it/s]82it [00:26,  1.38it/s]83it [00:27,  1.29it/s]84it [00:28,  1.22it/s]85it [00:29,  1.19it/s]86it [00:29,  1.51it/s]87it [00:29,  1.86it/s]88it [00:30,  2.20it/s]89it [00:31,  1.68it/s]90it [00:31,  2.09it/s]91it [00:31,  2.53it/s]92it [00:32,  1.81it/s]93it [00:33,  1.50it/s]94it [00:34,  1.33it/s]95it [00:35,  1.23it/s]95it [00:35,  2.70it/s]
+0it [00:00, ?it/s]1it [00:26, 26.09s/it]2it [00:27, 11.35s/it]3it [00:28,  6.65s/it]4it [00:29,  4.54s/it]5it [00:30,  3.37s/it]6it [00:31,  2.37s/it]7it [00:31,  1.76s/it]8it [00:32,  1.57s/it]10it [00:33,  1.06s/it]11it [00:34,  1.05s/it]12it [00:35,  1.06s/it]13it [00:37,  1.17s/it]14it [00:38,  1.24s/it]15it [00:40,  1.29s/it]16it [00:41,  1.30s/it]17it [00:42,  1.12s/it]18it [00:43,  1.20s/it]19it [00:44,  1.13s/it]20it [00:45,  1.07s/it]21it [00:46,  1.02it/s]22it [00:51,  2.22s/it]23it [01:01,  4.66s/it]24it [01:04,  4.09s/it]27it [01:05,  1.88s/it]28it [01:05,  1.65s/it]29it [01:07,  1.55s/it]30it [01:08,  1.55s/it]31it [01:15,  2.99s/it]32it [01:35,  7.60s/it]37it [01:36,  2.68s/it]38it [01:37,  2.38s/it]39it [01:38,  2.15s/it]40it [01:39,  1.98s/it]41it [01:40,  1.83s/it]42it [01:49,  3.56s/it]43it [01:50,  2.90s/it]50it [01:51,  1.08it/s]58it [01:52,  2.17it/s]59it [01:53,  2.08it/s]60it [01:54,  1.85it/s]61it [01:55,  1.57it/s]67it [01:57,  2.15it/s]68it [01:59,  1.50it/s]69it [02:02,  1.05it/s]70it [02:04,  1.22s/it]71it [02:12,  2.54s/it]72it [02:30,  5.80s/it]73it [02:48,  8.66s/it]74it [02:55,  8.19s/it]75it [02:57,  6.71s/it]79it [03:00,  3.00s/it]80it [03:15,  5.11s/it]81it [03:19,  5.00s/it]82it [03:24,  4.97s/it]83it [03:26,  4.26s/it]84it [03:28,  3.63s/it]85it [03:30,  3.20s/it]89it [03:32,  1.59s/it]92it [03:34,  1.16s/it]93it [03:36,  1.39s/it]94it [03:38,  1.54s/it]95it [03:40,  1.62s/it]95it [03:40,  2.32s/it]
+0it [00:00, ?it/s]45it [00:02, 16.00it/s]47it [00:07,  4.86it/s]48it [00:09,  3.61it/s]49it [00:11,  2.73it/s]51it [00:13,  2.28it/s]52it [00:15,  1.72it/s]53it [00:17,  1.27it/s]54it [00:19,  1.09it/s]55it [00:22,  1.25s/it]56it [00:29,  2.27s/it]57it [00:38,  3.86s/it]76it [00:49,  1.04s/it]77it [01:02,  1.75s/it]78it [01:11,  2.38s/it]86it [01:13,  1.33s/it]87it [01:14,  1.32s/it]88it [01:16,  1.36s/it]95it [01:16,  1.25it/s]
+0it [00:00, ?it/s]9it [00:15,  1.71s/it]25it [00:23,  1.15it/s]26it [00:30,  1.22s/it]33it [00:43,  1.43s/it]34it [00:56,  2.27s/it]35it [01:01,  2.56s/it]36it [01:07,  2.95s/it]44it [01:10,  1.45s/it]62it [01:12,  1.70it/s]63it [01:15,  1.36it/s]64it [01:18,  1.17it/s]65it [01:21,  1.03s/it]66it [01:23,  1.17s/it]90it [01:24,  3.47it/s]91it [01:26,  3.06it/s]95it [01:26,  1.10it/s]
+Using cache found in /dartfs-hpc/rc/home/9/f003xr9/.cache/torch/hub/pytorch_vision_main
+/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/torchvision/models/_utils.py:209: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  f"The parameter '{pretrained_param}' is deprecated since 0.13 and may be removed in the future, "
+/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ViT_B_32_Weights.IMAGENET1K_V1`. You can also use `weights=ViT_B_32_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+1105284
+28799
+21480
+Layer: 0
+Conv2d(3, 768, kernel_size=(32, 32), stride=(32, 32))
+Layer: 1
+Encoder(
+  (dropout): Dropout(p=0.0, inplace=False)
+  (layers): Sequential(
+    (encoder_layer_0): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_1): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_2): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_3): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_4): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_5): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_6): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_7): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_8): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_9): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_10): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (encoder_layer_11): EncoderBlock(
+      (ln_1): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=768, out_features=768, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+      (ln_2): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+      (mlp): MLPBlock(
+        (0): Linear(in_features=768, out_features=3072, bias=True)
+        (1): GELU(approximate='none')
+        (2): Dropout(p=0.0, inplace=False)
+        (3): Linear(in_features=3072, out_features=768, bias=True)
+        (4): Dropout(p=0.0, inplace=False)
+      )
+    )
+  )
+  (ln): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+)
+Layer: 2
+Sequential(
+  (head): Linear(in_features=768, out_features=1000, bias=True)
+)
+Traceback (most recent call last):
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/SCC-Tumor-Detection/Gokul_files/CNN_Tumor_Classification/Executables/ViT.py", line 421, in <module>
+    wandb.login()
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_login.py", line 74, in login
+    if wandb.setup()._settings._noop:
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_setup.py", line 307, in setup
+    ret = _setup(settings=settings)
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_setup.py", line 302, in _setup
+    wl = _WandbSetup(settings=settings)
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_setup.py", line 288, in __init__
+    _WandbSetup._instance = _WandbSetup__WandbSetup(settings=settings, pid=pid)
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_setup.py", line 106, in __init__
+    self._setup()
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_setup.py", line 234, in _setup
+    self._setup_manager()
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_setup.py", line 262, in _setup_manager
+    self._manager = wandb_manager._Manager(settings=self._settings)
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/wandb_manager.py", line 112, in __init__
+    self._service.start()
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/service/service.py", line 176, in start
+    self._launch_server()
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/wandb/sdk/service/service.py", line 164, in _launch_server
+    **kwargs,
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/subprocess.py", line 800, in __init__
+    restore_signals, start_new_session)
+  File "/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/subprocess.py", line 1482, in _execute_child
+    restore_signals, start_new_session, preexec_fn)
+OSError: [Errno 12] Cannot allocate memory

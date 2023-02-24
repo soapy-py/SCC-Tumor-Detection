@@ -1,0 +1,381 @@
+0it [00:00, ?it/s]2it [00:00, 18.59it/s]4it [00:00, 14.35it/s]6it [00:00, 11.53it/s]8it [00:00,  9.91it/s]10it [00:00, 10.67it/s]12it [00:01,  8.55it/s]13it [00:01,  7.62it/s]14it [00:01,  6.68it/s]15it [00:01,  5.95it/s]16it [00:02,  5.35it/s]17it [00:02,  4.91it/s]18it [00:02,  4.51it/s]19it [00:02,  4.21it/s]20it [00:03,  3.99it/s]21it [00:03,  3.79it/s]22it [00:03,  3.58it/s]23it [00:04,  3.39it/s]24it [00:04,  3.17it/s]27it [00:04,  4.50it/s]28it [00:05,  3.91it/s]29it [00:05,  3.45it/s]30it [00:06,  3.07it/s]31it [00:06,  2.81it/s]32it [00:07,  2.61it/s]34it [00:07,  4.21it/s]36it [00:07,  5.77it/s]37it [00:07,  4.22it/s]38it [00:08,  3.40it/s]39it [00:08,  2.91it/s]40it [00:09,  2.58it/s]41it [00:09,  2.35it/s]42it [00:10,  2.18it/s]43it [00:10,  2.04it/s]44it [00:10,  2.65it/s]47it [00:11,  5.33it/s]49it [00:11,  6.76it/s]51it [00:11,  4.76it/s]52it [00:12,  5.27it/s]53it [00:12,  5.70it/s]54it [00:12,  6.03it/s]55it [00:12,  6.18it/s]56it [00:12,  6.06it/s]57it [00:12,  5.82it/s]58it [00:13,  3.47it/s]59it [00:13,  2.65it/s]60it [00:14,  2.26it/s]61it [00:15,  2.03it/s]62it [00:15,  2.65it/s]63it [00:15,  3.33it/s]64it [00:15,  3.96it/s]65it [00:15,  4.45it/s]66it [00:15,  4.73it/s]67it [00:16,  2.83it/s]68it [00:17,  2.24it/s]69it [00:17,  1.91it/s]70it [00:18,  1.74it/s]71it [00:19,  1.61it/s]72it [00:20,  1.53it/s]73it [00:20,  1.44it/s]74it [00:21,  1.39it/s]75it [00:22,  1.35it/s]76it [00:22,  1.72it/s]77it [00:22,  2.12it/s]78it [00:23,  2.50it/s]79it [00:23,  1.92it/s]80it [00:24,  1.63it/s]81it [00:25,  1.46it/s]82it [00:26,  1.33it/s]83it [00:27,  1.26it/s]84it [00:28,  1.21it/s]85it [00:29,  1.16it/s]86it [00:29,  1.48it/s]87it [00:29,  1.82it/s]88it [00:29,  2.17it/s]89it [00:30,  1.65it/s]90it [00:31,  2.08it/s]91it [00:31,  2.53it/s]92it [00:32,  1.78it/s]93it [00:33,  1.46it/s]94it [00:34,  1.30it/s]95it [00:35,  1.19it/s]95it [00:35,  2.70it/s]
+0it [00:00, ?it/s]1it [00:14, 14.63s/it]2it [00:15,  6.75s/it]3it [00:18,  5.09s/it]4it [00:27,  6.58s/it]5it [00:41,  9.14s/it]6it [00:47,  8.11s/it]7it [00:48,  5.62s/it]8it [00:57,  6.73s/it]10it [00:58,  3.80s/it]11it [01:00,  3.26s/it]12it [01:05,  3.83s/it]13it [01:07,  3.43s/it]14it [01:10,  3.11s/it]15it [01:12,  2.88s/it]16it [01:14,  2.65s/it]17it [01:15,  2.11s/it]18it [01:20,  3.10s/it]19it [01:27,  4.14s/it]20it [01:28,  3.34s/it]21it [01:30,  2.72s/it]22it [01:32,  2.70s/it]23it [01:34,  2.37s/it]24it [01:38,  2.79s/it]27it [01:38,  1.34s/it]28it [01:39,  1.19s/it]29it [01:41,  1.31s/it]30it [01:43,  1.52s/it]31it [01:45,  1.70s/it]32it [01:47,  1.86s/it]37it [01:48,  1.30it/s]38it [01:53,  1.36s/it]39it [02:07,  3.79s/it]40it [02:23,  6.28s/it]41it [02:38,  8.27s/it]42it [02:52,  9.75s/it]43it [03:04, 10.29s/it]50it [03:18,  4.27s/it]58it [03:25,  2.45s/it]59it [03:34,  3.00s/it]60it [03:47,  4.14s/it]61it [04:02,  5.66s/it]67it [04:18,  4.01s/it]68it [04:36,  5.66s/it]69it [04:59,  8.12s/it]70it [05:19, 10.07s/it]71it [05:22,  8.72s/it]72it [05:35,  9.60s/it]73it [05:54, 11.71s/it]74it [06:11, 13.05s/it]75it [06:13, 10.31s/it]79it [06:15,  4.35s/it]80it [06:19,  4.32s/it]81it [06:24,  4.40s/it]82it [06:29,  4.53s/it]83it [06:31,  3.95s/it]84it [06:33,  3.42s/it]85it [06:35,  3.05s/it]89it [06:37,  1.54s/it]92it [06:39,  1.12s/it]93it [06:41,  1.37s/it]94it [06:44,  1.56s/it]95it [06:46,  1.67s/it]95it [06:46,  4.28s/it]
+0it [00:00, ?it/s]45it [00:03, 14.76it/s]47it [00:08,  4.42it/s]48it [00:10,  3.29it/s]49it [00:12,  2.49it/s]51it [00:14,  2.09it/s]52it [00:16,  1.57it/s]53it [00:19,  1.18it/s]54it [00:21,  1.02it/s]55it [00:24,  1.31s/it]56it [00:37,  3.57s/it]57it [00:48,  5.11s/it]76it [00:54,  1.02s/it]77it [00:57,  1.14s/it]78it [00:59,  1.20s/it]86it [01:01,  1.27it/s]87it [01:02,  1.24it/s]88it [01:03,  1.18it/s]95it [01:03,  1.49it/s]
+0it [00:00, ?it/s]9it [00:05,  1.73it/s]25it [00:08,  3.33it/s]26it [00:09,  2.77it/s]33it [00:11,  3.00it/s]34it [00:14,  2.03it/s]35it [00:23,  1.30s/it]36it [00:36,  2.64s/it]44it [00:44,  1.73s/it]62it [00:57,  1.09s/it]63it [01:15,  1.90s/it]64it [01:31,  2.81s/it]65it [01:48,  4.03s/it]66it [02:02,  5.12s/it]90it [02:10,  1.34s/it]91it [02:17,  1.61s/it]95it [02:17,  1.45s/it]
+Using cache found in /dartfs-hpc/rc/home/9/f003xr9/.cache/torch/hub/pytorch_vision_main
+/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/torchvision/models/_utils.py:209: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  f"The parameter '{pretrained_param}' is deprecated since 0.13 and may be removed in the future, "
+/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+wandb: Currently logged in as: gokul-srinivasan-23. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.10
+wandb: Run data is saved locally in /dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/SCC-Tumor-Detection/Gokul_files/CNN_Tumor_Classification/Executables/wandb/run-20230220_181704-dnmokc21
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run serene-pine-19
+wandb:  View project at https://wandb.ai/gokul-srinivasan-23/ResNet-Tumor-Classification
+wandb:  View run at https://wandb.ai/gokul-srinivasan-23/ResNet-Tumor-Classification/runs/dnmokc21
+110528
+28799
+21480
+Layer: 0
+Conv2d(3, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3), bias=False)
+Layer: 1
+BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+Layer: 2
+ReLU(inplace=True)
+Layer: 3
+MaxPool2d(kernel_size=3, stride=2, padding=1, dilation=1, ceil_mode=False)
+Layer: 4
+Sequential(
+  (0): Bottleneck(
+    (conv1): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (downsample): Sequential(
+      (0): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (1): Bottleneck(
+    (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (2): Bottleneck(
+    (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+)
+Layer: 5
+Sequential(
+  (0): Bottleneck(
+    (conv1): Conv2d(256, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (downsample): Sequential(
+      (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (1): Bottleneck(
+    (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (2): Bottleneck(
+    (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (3): Bottleneck(
+    (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+)
+Layer: 6
+Sequential(
+  (0): Bottleneck(
+    (conv1): Conv2d(512, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (downsample): Sequential(
+      (0): Conv2d(512, 1024, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (1): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (1): Bottleneck(
+    (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (2): Bottleneck(
+    (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (3): Bottleneck(
+    (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (4): Bottleneck(
+    (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (5): Bottleneck(
+    (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+)
+Layer: 7
+Sequential(
+  (0): Bottleneck(
+    (conv1): Conv2d(1024, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (downsample): Sequential(
+      (0): Conv2d(1024, 2048, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (1): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (1): Bottleneck(
+    (conv1): Conv2d(2048, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (2): Bottleneck(
+    (conv1): Conv2d(2048, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+)
+Layer: 8
+AdaptiveAvgPool2d(output_size=(1, 1))
+Layer: 9
+Linear(in_features=2048, out_features=1000, bias=True)
+Conv2d(3, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3), bias=False) 0
+BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True) 1
+ReLU(inplace=True) 2
+MaxPool2d(kernel_size=3, stride=2, padding=1, dilation=1, ceil_mode=False) 3
+Sequential(
+  (0): Bottleneck(
+    (conv1): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (downsample): Sequential(
+      (0): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (1): Bottleneck(
+    (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (2): Bottleneck(
+    (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+) 4
+Sequential(
+  (0): Bottleneck(
+    (conv1): Conv2d(256, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (downsample): Sequential(
+      (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (1): Bottleneck(
+    (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (2): Bottleneck(
+    (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+  (3): Bottleneck(
+    (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+    (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+  )
+) 5
+Adjusting learning rate of group 0 to 1.0000e-03.
+0it [00:00, ?it/s]
+  0%|          | 0/84 [00:00<?, ?it/s][A
+  1%|1         | 1/84 [00:00<01:08,  1.21it/s][A
+  2%|2         | 2/84 [00:01<01:10,  1.16it/s][A
+  4%|3         | 3/84 [00:02<01:07,  1.20it/s][A
+  5%|4         | 4/84 [00:03<01:05,  1.22it/s][A
+  6%|5         | 5/84 [00:04<01:05,  1.21it/s][A
+  7%|7         | 6/84 [00:05<01:05,  1.19it/s][A
+  8%|8         | 7/84 [00:05<01:04,  1.18it/s][A
+ 10%|9         | 8/84 [00:06<01:02,  1.21it/s][A
+ 11%|#         | 9/84 [00:07<01:01,  1.23it/s][A
+ 12%|#1        | 10/84 [00:08<00:59,  1.23it/s][A
+ 13%|#3        | 11/84 [00:09<00:59,  1.22it/s][A
+ 14%|#4        | 12/84 [00:09<00:59,  1.22it/s][A
+ 15%|#5        | 13/84 [00:10<00:57,  1.23it/s][A
+ 17%|#6        | 14/84 [00:11<00:56,  1.23it/s][A
+ 18%|#7        | 15/84 [00:12<00:55,  1.23it/s][A
+ 19%|#9        | 16/84 [00:13<00:55,  1.23it/s][A
+ 20%|##        | 17/84 [00:13<00:53,  1.24it/s][A
+ 21%|##1       | 18/84 [00:14<00:54,  1.21it/s][A
+ 23%|##2       | 19/84 [00:15<00:53,  1.21it/s][A
+ 24%|##3       | 20/84 [00:16<00:52,  1.22it/s][A
+ 25%|##5       | 21/84 [00:17<00:51,  1.22it/s][A
+ 26%|##6       | 22/84 [00:18<00:50,  1.22it/s][A
+ 27%|##7       | 23/84 [00:18<00:50,  1.21it/s][A
+ 29%|##8       | 24/84 [00:19<00:49,  1.21it/s][A
+ 30%|##9       | 25/84 [00:20<00:48,  1.22it/s][A
+ 31%|###       | 26/84 [00:21<00:47,  1.21it/s][A
+ 32%|###2      | 27/84 [00:22<00:47,  1.21it/s][A
+ 33%|###3      | 28/84 [00:23<00:46,  1.20it/s][A
+ 35%|###4      | 29/84 [00:23<00:45,  1.20it/s][A
+ 36%|###5      | 30/84 [00:24<00:45,  1.19it/s][A
+ 37%|###6      | 31/84 [00:25<00:44,  1.18it/s][A
+ 38%|###8      | 32/84 [00:26<00:43,  1.19it/s][A
+ 39%|###9      | 33/84 [00:27<00:42,  1.20it/s][A
+ 40%|####      | 34/84 [00:28<00:41,  1.21it/s][A
+ 42%|####1     | 35/84 [00:28<00:40,  1.22it/s][A
+ 43%|####2     | 36/84 [00:29<00:39,  1.23it/s][A
+ 44%|####4     | 37/84 [00:30<00:37,  1.24it/s][A
+ 45%|####5     | 38/84 [00:31<00:37,  1.24it/s][A
+ 46%|####6     | 39/84 [00:32<00:36,  1.24it/s][A
+ 48%|####7     | 40/84 [00:32<00:35,  1.22it/s][A
+ 49%|####8     | 41/84 [00:33<00:35,  1.21it/s][A
+ 50%|#####     | 42/84 [00:34<00:35,  1.20it/s][A
+ 51%|#####1    | 43/84 [00:35<00:34,  1.18it/s][A
+ 52%|#####2    | 44/84 [00:36<00:34,  1.18it/s][A
+ 54%|#####3    | 45/84 [00:37<00:33,  1.16it/s][A
+ 55%|#####4    | 46/84 [00:38<00:32,  1.16it/s][A
+ 56%|#####5    | 47/84 [00:38<00:31,  1.18it/s][A
+ 57%|#####7    | 48/84 [00:39<00:30,  1.19it/s][A
+ 58%|#####8    | 49/84 [00:40<00:28,  1.21it/s][A
+ 60%|#####9    | 50/84 [00:41<00:27,  1.22it/s][A
+ 61%|######    | 51/84 [00:42<00:26,  1.23it/s][A
+ 62%|######1   | 52/84 [00:42<00:25,  1.24it/s][A
+ 63%|######3   | 53/84 [00:43<00:24,  1.24it/s][A
+ 64%|######4   | 54/84 [00:44<00:24,  1.23it/s][A
+ 65%|######5   | 55/84 [00:45<00:24,  1.21it/s][A
+ 67%|######6   | 56/84 [00:46<00:23,  1.19it/s][A
+ 68%|######7   | 57/84 [00:47<00:22,  1.19it/s][A
+ 69%|######9   | 58/84 [00:47<00:21,  1.19it/s][A
+ 70%|#######   | 59/84 [00:48<00:21,  1.18it/s][A
+ 71%|#######1  | 60/84 [00:49<00:20,  1.18it/s][A
+ 73%|#######2  | 61/84 [00:50<00:19,  1.18it/s][A
+ 74%|#######3  | 62/84 [00:51<00:18,  1.17it/s][A
+ 75%|#######5  | 63/84 [00:52<00:17,  1.17it/s][A
+ 76%|#######6  | 64/84 [00:53<00:16,  1.18it/s][A
+ 77%|#######7  | 65/84 [00:53<00:15,  1.19it/s][A
+ 79%|#######8  | 66/84 [00:54<00:15,  1.18it/s][A
+ 80%|#######9  | 67/84 [00:55<00:14,  1.19it/s][A
+ 81%|########  | 68/84 [00:56<00:13,  1.18it/s][A
+ 82%|########2 | 69/84 [00:57<00:12,  1.17it/s][A
+ 83%|########3 | 70/84 [00:58<00:12,  1.16it/s][A
+ 85%|########4 | 71/84 [00:59<00:11,  1.15it/s][A
+ 86%|########5 | 72/84 [00:59<00:10,  1.15it/s][A
+ 87%|########6 | 73/84 [01:00<00:09,  1.16it/s][A
+ 88%|########8 | 74/84 [01:01<00:08,  1.17it/s][A
+ 89%|########9 | 75/84 [01:02<00:07,  1.18it/s][A
+ 90%|######### | 76/84 [01:03<00:06,  1.17it/s][A
+ 92%|#########1| 77/84 [01:04<00:05,  1.19it/s][A
+ 93%|#########2| 78/84 [01:05<00:05,  1.17it/s][A
+ 94%|#########4| 79/84 [01:05<00:04,  1.18it/s][A
+ 95%|#########5| 80/84 [01:06<00:03,  1.17it/s][A
+ 96%|#########6| 81/84 [01:07<00:02,  1.18it/s][A
+ 98%|#########7| 82/84 [01:08<00:01,  1.17it/s][A
+ 99%|#########8| 83/84 [01:09<00:00,  1.18it/s][A
+100%|##########| 84/84 [01:10<00:00,  1.22it/s][A100%|##########| 84/84 [01:10<00:00,  1.20it/s]
+
+  0%|          | 0/3 [00:00<?, ?it/s][A
+ 33%|###3      | 1/3 [00:00<00:00,  2.47it/s][A
+ 67%|######6   | 2/3 [00:00<00:00,  2.36it/s][A
+100%|##########| 3/3 [00:01<00:00,  2.60it/s][A100%|##########| 3/3 [00:01<00:00,  2.54it/s]
+1it [01:17, 77.01s/it]2it [01:18, 32.32s/it]3it [01:19, 18.06s/it]4it [01:20, 11.35s/it]5it [01:21,  7.69s/it]6it [01:22,  5.42s/it]7it [01:23,  4.01s/it]8it [01:24,  3.09s/it]9it [01:25,  2.48s/it]10it [01:26,  2.04s/it]11it [01:27,  1.74s/it]12it [01:28,  1.54s/it]13it [01:30,  1.42s/it]14it [01:31,  1.29s/it]15it [01:32,  1.26s/it]16it [01:33,  1.18s/it]17it [01:34,  1.19s/it]18it [01:35,  1.13s/it]19it [01:36,  1.12s/it]20it [01:37,  1.11s/it]21it [01:38,  1.10s/it]22it [01:39,  1.10s/it]23it [01:41,  1.12s/it]24it [01:42,  1.14s/it]25it [01:43,  1.12s/it]26it [01:44,  1.12s/it]27it [01:45,  1.12s/it]28it [01:46,  1.10s/it]29it [01:47,  1.10s/it]30it [01:48,  1.07s/it]31it [01:49,  1.09s/it]32it [01:50,  1.09s/it]33it [01:52,  1.14s/it]34it [01:53,  1.11s/it]35it [01:54,  1.10s/it]36it [01:55,  1.10s/it]37it [01:56,  1.12s/it]38it [01:57,  1.09s/it]39it [01:58,  1.10s/it]40it [01:59,  1.09s/it]41it [02:00,  1.10s/it]42it [02:01,  1.06s/it]43it [02:02,  1.08s/it]44it [02:04,  1.08s/it]45it [02:05,  1.10s/it]46it [02:06,  1.06s/it]47it [02:07,  1.10s/it]48it [02:08,  1.09s/it]49it [02:09,  1.10s/it]50it [02:10,  1.08s/it]51it [02:11,  1.10s/it]52it [02:12,  1.06s/it]53it [02:13,  1.08s/it]54it [02:14,  1.06s/it]55it [02:15,  1.09s/it]56it [02:16,  1.06s/it]57it [02:18,  1.06s/it]58it [02:19,  1.05s/it]59it [02:20,  1.07s/it]60it [02:21,  1.06s/it]61it [02:22,  1.11s/it]62it [02:23,  1.10s/it]63it [02:24,  1.10s/it]64it [02:25,  1.09s/it]65it [02:26,  1.11s/it]66it [02:27,  1.10s/it]67it [02:29,  1.11s/it]68it [02:30,  1.08s/it]69it [02:31,  1.10s/it]70it [02:32,  1.10s/it]71it [02:33,  1.11s/it]72it [02:34,  1.09s/it]73it [02:35,  1.09s/it]74it [02:36,  1.08s/it]75it [02:37,  1.09s/it]76it [02:38,  1.06s/it]77it [02:39,  1.06s/it]78it [02:40,  1.05s/it]79it [02:41,  1.06s/it]80it [02:43,  1.08s/it]81it [02:44,  1.07s/it]82it [02:45,  1.06s/it]83it [02:46,  1.06s/it]84it [02:47,  1.04s/it]85it [02:48,  1.02s/it]86it [02:49,  1.02s/it]87it [02:50,  1.03s/it]88it [02:51,  1.03s/it]89it [02:52,  1.06s/it]90it [02:53,  1.07s/it]91it [02:54,  1.05s/it]92it [02:55,  1.07s/it]93it [02:56,  1.09s/it]94it [02:57,  1.07s/it]95it [02:58,  1.08s/it]96it [02:59,  1.09s/it]97it [03:01,  1.10s/it]98it [03:02,  1.07s/it]99it [03:03,  1.08s/it]100it [03:04,  1.06s/it]101it [03:05,  1.08s/it]102it [03:06,  1.04s/it]103it [03:07,  1.06s/it]104it [03:08,  1.08s/it]105it [03:09,  1.08s/it]106it [03:10,  1.09s/it]107it [03:11,  1.08s/it]108it [03:12,  1.08s/it]109it [03:13,  1.08s/it]110it [03:15,  1.09s/it]111it [03:16,  1.09s/it]112it [03:17,  1.09s/it]113it [03:18,  1.12s/it]114it [03:19,  1.09s/it]115it [03:20,  1.08s/it]116it [03:21,  1.07s/it]117it [03:22,  1.09s/it]118it [03:23,  1.08s/it]119it [03:24,  1.09s/it]120it [03:25,  1.07s/it]121it [03:26,  1.08s/it]122it [03:27,  1.06s/it]123it [03:29,  1.07s/it]124it [03:30,  1.07s/it]125it [03:31,  1.09s/it]126it [03:32,  1.07s/it]127it [03:33,  1.09s/it]128it [03:34,  1.09s/it]129it [03:35,  1.08s/it]130it [03:36,  1.07s/it]131it [03:37,  1.10s/it]132it [03:38,  1.09s/it]133it [03:39,  1.09s/it]134it [03:40,  1.07s/it]135it [03:42,  1.10s/it]136it [03:43,  1.09s/it]137it [03:44,  1.10s/it]138it [03:45,  1.07s/it]139it [03:46,  1.09s/it]140it [03:47,  1.07s/it]141it [03:48,  1.09s/it]142it [03:49,  1.05s/it]143it [03:50,  1.08s/it]144it [03:51,  1.06s/it]145it [03:52,  1.09s/it]146it [03:53,  1.07s/it]147it [03:54,  1.07s/it]148it [03:56,  1.08s/it]149it [03:57,  1.08s/it]150it [03:58,  1.06s/it]151it [03:59,  1.06s/it]152it [04:00,  1.08s/it]153it [04:01,  1.09s/it]154it [04:02,  1.08s/it]155it [04:03,  1.06s/it]156it [04:04,  1.07s/it]157it [04:05,  1.07s/it]158it [04:06,  1.06s/it]159it [04:07,  1.06s/it]160it [04:08,  1.06s/it]161it [04:09,  1.05s/it]162it [04:10,  1.05s/it]163it [04:12,  1.06s/it]164it [04:13,  1.06s/it]165it [04:14,  1.06s/it]166it [04:15,  1.08s/it]167it [04:16,  1.08s/it]168it [04:17,  1.06s/it]169it [04:18,  1.07s/it]170it [04:19,  1.06s/it]171it [04:20,  1.07s/it]172it [04:21,  1.08s/it]173it [04:22,  1.08s/it]174it [04:23,  1.10s/it]175it [04:25,  1.11s/it]176it [04:26,  1.09s/it]177it [04:27,  1.09s/it]178it [04:28,  1.11s/it]179it [04:29,  1.10s/it]180it [04:30,  1.08s/it]181it [04:31,  1.08s/it]182it [04:32,  1.06s/it]183it [04:33,  1.07s/it]184it [04:34,  1.04s/it]185it [04:35,  1.03s/it]186it [04:36,  1.03s/it]187it [04:37,  1.06s/it]188it [04:38,  1.05s/it]189it [04:39,  1.07s/it]190it [04:40,  1.06s/it]191it [04:42,  1.07s/it]192it [04:43,  1.05s/it]193it [04:44,  1.07s/it]194it [04:45,  1.06s/it]195it [04:46,  1.08s/it]196it [04:47,  1.16s/it]197it [04:48,  1.18s/it]198it [04:50,  1.17s/it]199it [04:51,  1.22s/it]200it [04:52,  1.17s/it]201it [04:53,  1.18s/it]202it [04:54,  1.15s/it]203it [04:55,  1.13s/it]204it [04:56,  1.09s/it]205it [04:57,  1.09s/it]206it [04:58,  1.07s/it]207it [04:59,  1.07s/it]208it [05:01,  1.07s/it]209it [05:02,  1.05s/it]210it [05:03,  1.05s/it]211it [05:04,  1.07s/it]212it [05:05,  1.05s/it]213it [05:06,  1.06s/it]214it [05:07,  1.05s/it]215it [05:08,  1.08s/it]216it [05:09,  1.05s/it]217it [05:10,  1.08s/it]218it [05:11,  1.06s/it]219it [05:12,  1.07s/it]220it [05:13,  1.04s/it]221it [05:14,  1.05s/it]222it [05:15,  1.06s/it]223it [05:16,  1.05s/it]224it [05:17,  1.04s/it]225it [05:19,  1.09s/it]226it [05:20,  1.08s/it]227it [05:21,  1.07s/it]228it [05:22,  1.04s/it]229it [05:23,  1.03s/it]230it [05:24,  1.01it/s]231it [05:25,  1.02s/it]232it [05:26,  1.04s/it]233it [05:27,  1.06s/it]234it [05:28,  1.05s/it]235it [05:29,  1.07s/it]236it [05:30,  1.07s/it]237it [05:31,  1.08s/it]238it [05:32,  1.06s/it]239it [05:33,  1.09s/it]240it [05:34,  1.07s/it]241it [05:35,  1.07s/it]242it [05:36,  1.05s/it]243it [05:38,  1.06s/it]244it [05:39,  1.06s/it]245it [05:40,  1.06s/it]246it [05:41,  1.04s/it]247it [05:42,  1.05s/it]248it [05:43,  1.07s/it]249it [05:44,  1.07s/it]250it [05:45,  1.05s/it]251it [05:46,  1.05s/it]252it [05:47,  1.05s/it]253it [05:48,  1.06s/it]254it [05:49,  1.06s/it]255it [05:50,  1.09s/it]256it [05:51,  1.11s/it]257it [05:53,  1.11s/it]258it [05:54,  1.11s/it]259it [05:55,  1.12s/it]260it [05:56,  1.14s/it]261it [05:57,  1.16s/it]262it [05:58,  1.13s/it]263it [05:59,  1.13s/it]264it [06:01,  1.12s/it]265it [06:02,  1.14s/it]266it [06:03,  1.14s/it]267it [06:04,  1.15s/it]268it [06:05,  1.13s/it]269it [06:06,  1.16s/it]270it [06:07,  1.16s/it]271it [06:09,  1.17s/it]272it [06:10,  1.15s/it]273it [06:11,  1.17s/it]274it [06:12,  1.15s/it]275it [06:13,  1.13s/it]276it [06:14,  1.11s/it]277it [06:15,  1.11s/it]278it [06:16,  1.12s/it]279it [06:18,  1.10s/it]280it [06:19,  1.11s/it]281it [06:20,  1.13s/it]282it [06:21,  1.11s/it]283it [06:22,  1.10s/it]284it [06:23,  1.09s/it]285it [06:25,  1.20s/it]286it [06:26,  1.20s/it]287it [06:27,  1.22s/it]288it [06:28,  1.23s/it]289it [06:30,  1.24s/it]290it [06:31,  1.21s/it]291it [06:32,  1.20s/it]292it [06:33,  1.19s/it]293it [06:34,  1.18s/it]294it [06:35,  1.16s/it]295it [06:36,  1.15s/it]296it [06:37,  1.13s/it]297it [06:39,  1.13s/it]298it [06:40,  1.10s/it]299it [06:41,  1.11s/it]300it [06:42,  1.09s/it]301it [06:43,  1.11s/it]302it [06:44,  1.12s/it]303it [06:45,  1.15s/it]304it [06:46,  1.11s/it]305it [06:48,  1.15s/it]306it [06:49,  1.14s/it]307it [06:50,  1.17s/it]308it [06:51,  1.12s/it]309it [06:52,  1.13s/it]310it [06:53,  1.12s/it]311it [06:54,  1.14s/it]312it [06:56,  1.13s/it]313it [06:57,  1.14s/it]314it [06:58,  1.14s/it]315it [06:59,  1.16s/it]316it [07:00,  1.17s/it]317it [07:01,  1.18s/it]318it [07:03,  1.16s/it]319it [07:04,  1.18s/it]320it [07:05,  1.16s/it]321it [07:06,  1.16s/it]322it [07:07,  1.14s/it]323it [07:08,  1.15s/it]324it [07:09,  1.16s/it]325it [07:11,  1.15s/it]326it [07:12,  1.12s/it]327it [07:13,  1.13s/it]328it [07:14,  1.13s/it]329it [07:15,  1.13s/it]330it [07:16,  1.12s/it]331it [07:17,  1.13s/it]332it [07:18,  1.11s/it]333it [07:20,  1.14s/it]334it [07:21,  1.13s/it]335it [07:22,  1.16s/it]336it [07:23,  1.14s/it]337it [07:24,  1.12s/it]338it [07:25,  1.13s/it]339it [07:26,  1.15s/it]340it [07:28,  1.13s/it]341it [07:29,  1.14s/it]342it [07:30,  1.11s/it]343it [07:31,  1.10s/it]344it [07:32,  1.12s/it]345it [07:33,  1.13s/it]346it [07:34,  1.12s/it]347it [07:35,  1.14s/it]348it [07:36,  1.11s/it]349it [07:38,  1.13s/it]350it [07:39,  1.12s/it]351it [07:40,  1.12s/it]352it [07:41,  1.10s/it]353it [07:42,  1.11s/it]354it [07:43,  1.12s/it]355it [07:44,  1.15s/it]356it [07:46,  1.14s/it]357it [07:47,  1.14s/it]358it [07:48,  1.14s/it]359it [07:49,  1.15s/it]360it [07:50,  1.14s/it]361it [07:51,  1.12s/it]362it [07:52,  1.09s/it]363it [07:53,  1.09s/it]364it [07:54,  1.08s/it]365it [07:55,  1.10s/it]366it [07:57,  1.10s/it]367it [07:58,  1.10s/it]368it [07:59,  1.07s/it]369it [08:00,  1.06s/it]370it [08:01,  1.09s/it]371it [08:02,  1.11s/it]372it [08:03,  1.18s/it]373it [08:05,  1.22s/it]374it [08:06,  1.21s/it]375it [08:07,  1.20s/it]376it [08:08,  1.16s/it]377it [08:09,  1.16s/it]378it [08:10,  1.11s/it]379it [08:11,  1.11s/it]380it [08:12,  1.08s/it]381it [08:14,  1.10s/it]382it [08:15,  1.10s/it]383it [08:16,  1.10s/it]384it [08:17,  1.07s/it]385it [08:18,  1.07s/it]386it [08:19,  1.10s/it]387it [08:20,  1.12s/it]388it [08:21,  1.12s/it]389it [08:22,  1.11s/it]390it [08:24,  1.13s/it]391it [08:25,  1.16s/it]392it [08:26,  1.15s/it]393it [08:27,  1.19s/it]394it [08:28,  1.18s/it]395it [08:29,  1.16s/it]396it [08:31,  1.15s/it]397it [08:32,  1.17s/it]398it [08:33,  1.14s/it]399it [08:34,  1.15s/it]400it [08:35,  1.13s/it]401it [08:36,  1.13s/it]402it [08:37,  1.11s/it]403it [08:38,  1.11s/it]404it [08:40,  1.12s/it]405it [08:41,  1.12s/it]406it [08:42,  1.11s/it]407it [08:43,  1.11s/it]408it [08:44,  1.10s/it]409it [08:45,  1.12s/it]410it [08:46,  1.12s/it]411it [08:47,  1.13s/it]412it [08:49,  1.13s/it]413it [08:50,  1.13s/it]414it [08:51,  1.11s/it]415it [08:52,  1.12s/it]416it [08:53,  1.11s/it]417it [08:54,  1.11s/it]418it [08:55,  1.12s/it]419it [08:56,  1.11s/it]420it [08:57,  1.10s/it]421it [08:59,  1.11s/it]422it [09:00,  1.12s/it]423it [09:01,  1.15s/it]424it [09:02,  1.14s/it]425it [09:03,  1.15s/it]426it [09:04,  1.15s/it]427it [09:05,  1.13s/it]428it [09:06,  1.11s/it]429it [09:08,  1.12s/it]430it [09:09,  1.11s/it]431it [09:10,  1.13s/it]432it [09:11,  1.05s/it]432it [09:11,  1.28s/it]
+/dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/users/Gokul_Srinivasan/anaconda3/envs/jupyter-ultimate/lib/python3.7/site-packages/torch/optim/lr_scheduler.py:163: UserWarning: The epoch parameter in `scheduler.step()` was not necessary and is being deprecated where possible. Please use `scheduler.step()` to step the scheduler. During the deprecation, if epoch is different from None, the closed form is used instead of the new chainable form, where available. Please open an issue if you are unable to replicate your use case: https://github.com/pytorch/pytorch/issues/new/choose.
+  warnings.warn(EPOCH_DEPRECATION_WARNING, UserWarning)
+{0: 0.7385057209339021, 1: 0.7245887941473965, 2: 0.520652523629487}
+Epoch 0.58: adjusting learning rate of group 0 to 9.9928e-04.
+Cost at epoch 0 is 0.5762582223310515
+0it [00:00, ?it/s]1it [00:01,  1.18s/it]2it [00:02,  1.10s/it]3it [00:03,  1.11s/it]4it [00:04,  1.09s/it]5it [00:05,  1.09s/it]6it [00:06,  1.07s/it]7it [00:07,  1.11s/it]8it [00:08,  1.08s/it]9it [00:09,  1.09s/it]10it [00:11,  1.12s/it]11it [00:12,  1.12s/it]12it [00:13,  1.12s/it]13it [00:14,  1.14s/it]14it [00:15,  1.12s/it]15it [00:16,  1.12s/it]16it [00:17,  1.12s/it]17it [00:18,  1.13s/it]18it [00:20,  1.12s/it]19it [00:21,  1.14s/it]20it [00:22,  1.14s/it]21it [00:23,  1.17s/it]22it [00:24,  1.16s/it]23it [00:25,  1.16s/it]24it [00:26,  1.14s/it]25it [00:28,  1.15s/it]26it [00:29,  1.22s/it]27it [00:30,  1.24s/it]28it [00:32,  1.29s/it]29it [00:33,  1.30s/it]30it [00:34,  1.28s/it]31it [00:35,  1.26s/it]32it [00:37,  1.22s/it]33it [00:38,  1.21s/it]34it [00:39,  1.19s/it]35it [00:40,  1.20s/it]36it [00:41,  1.17s/it]37it [00:42,  1.18s/it]38it [00:44,  1.19s/it]39it [00:45,  1.18s/it]40it [00:46,  1.16s/it]41it [00:47,  1.15s/it]42it [00:48,  1.15s/it]43it [00:49,  1.14s/it]44it [00:51,  1.21s/it]45it [00:52,  1.26s/it]46it [00:53,  1.30s/it]47it [00:55,  1.28s/it]48it [00:56,  1.26s/it]49it [00:57,  1.21s/it]50it [00:58,  1.21s/it]51it [00:59,  1.21s/it]52it [01:01,  1.21s/it]53it [01:02,  1.22s/it]54it [01:03,  1.17s/it]55it [01:04,  1.18s/it]56it [01:05,  1.16s/it]57it [01:06,  1.17s/it]58it [01:08,  1.15s/it]59it [01:09,  1.15s/it]60it [01:10,  1.16s/it]61it [01:11,  1.18s/it]62it [01:12,  1.18s/it]63it [01:14,  1.19s/it]64it [01:15,  1.17s/it]65it [01:16,  1.15s/it]slurmstepd: error: *** JOB 5899134 ON p02 CANCELLED AT 2023-02-20T18:27:48 ***
